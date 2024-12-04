@@ -1,4 +1,4 @@
-# AI-Text-Summarizer
+# Text-Summarizer-App-Using-AI
 
 ## Wokring Application
 #### Desktop Version
